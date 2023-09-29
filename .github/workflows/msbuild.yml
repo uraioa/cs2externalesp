@@ -47,4 +47,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: msbuild
-        path: D:\a\cs2externalesp\cs2externalesp\bin
+        path: D:\a\cs2externalesp\cs2externalesp\x64\Release
